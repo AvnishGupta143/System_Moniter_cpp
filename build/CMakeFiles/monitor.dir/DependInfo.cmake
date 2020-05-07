@@ -4,13 +4,13 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/avn187/Desktop/Addverb_Avnish/C++/System_Monitor_Cpp/src/format.cpp" "/home/avn187/Desktop/Addverb_Avnish/C++/System_Monitor_Cpp/build/CMakeFiles/monitor.dir/src/format.cpp.o"
-  "/home/avn187/Desktop/Addverb_Avnish/C++/System_Monitor_Cpp/src/linux_parser.cpp" "/home/avn187/Desktop/Addverb_Avnish/C++/System_Monitor_Cpp/build/CMakeFiles/monitor.dir/src/linux_parser.cpp.o"
-  "/home/avn187/Desktop/Addverb_Avnish/C++/System_Monitor_Cpp/src/main.cpp" "/home/avn187/Desktop/Addverb_Avnish/C++/System_Monitor_Cpp/build/CMakeFiles/monitor.dir/src/main.cpp.o"
-  "/home/avn187/Desktop/Addverb_Avnish/C++/System_Monitor_Cpp/src/ncurses_display.cpp" "/home/avn187/Desktop/Addverb_Avnish/C++/System_Monitor_Cpp/build/CMakeFiles/monitor.dir/src/ncurses_display.cpp.o"
-  "/home/avn187/Desktop/Addverb_Avnish/C++/System_Monitor_Cpp/src/process.cpp" "/home/avn187/Desktop/Addverb_Avnish/C++/System_Monitor_Cpp/build/CMakeFiles/monitor.dir/src/process.cpp.o"
-  "/home/avn187/Desktop/Addverb_Avnish/C++/System_Monitor_Cpp/src/processor.cpp" "/home/avn187/Desktop/Addverb_Avnish/C++/System_Monitor_Cpp/build/CMakeFiles/monitor.dir/src/processor.cpp.o"
-  "/home/avn187/Desktop/Addverb_Avnish/C++/System_Monitor_Cpp/src/system.cpp" "/home/avn187/Desktop/Addverb_Avnish/C++/System_Monitor_Cpp/build/CMakeFiles/monitor.dir/src/system.cpp.o"
+  "/home/avn187/Desktop/Addverb_Avnish/C++/System_Moniter_cpp/src/format.cpp" "/home/avn187/Desktop/Addverb_Avnish/C++/System_Moniter_cpp/build/CMakeFiles/monitor.dir/src/format.cpp.o"
+  "/home/avn187/Desktop/Addverb_Avnish/C++/System_Moniter_cpp/src/linux_parser.cpp" "/home/avn187/Desktop/Addverb_Avnish/C++/System_Moniter_cpp/build/CMakeFiles/monitor.dir/src/linux_parser.cpp.o"
+  "/home/avn187/Desktop/Addverb_Avnish/C++/System_Moniter_cpp/src/main.cpp" "/home/avn187/Desktop/Addverb_Avnish/C++/System_Moniter_cpp/build/CMakeFiles/monitor.dir/src/main.cpp.o"
+  "/home/avn187/Desktop/Addverb_Avnish/C++/System_Moniter_cpp/src/ncurses_display.cpp" "/home/avn187/Desktop/Addverb_Avnish/C++/System_Moniter_cpp/build/CMakeFiles/monitor.dir/src/ncurses_display.cpp.o"
+  "/home/avn187/Desktop/Addverb_Avnish/C++/System_Moniter_cpp/src/process.cpp" "/home/avn187/Desktop/Addverb_Avnish/C++/System_Moniter_cpp/build/CMakeFiles/monitor.dir/src/process.cpp.o"
+  "/home/avn187/Desktop/Addverb_Avnish/C++/System_Moniter_cpp/src/processor.cpp" "/home/avn187/Desktop/Addverb_Avnish/C++/System_Moniter_cpp/build/CMakeFiles/monitor.dir/src/processor.cpp.o"
+  "/home/avn187/Desktop/Addverb_Avnish/C++/System_Moniter_cpp/src/system.cpp" "/home/avn187/Desktop/Addverb_Avnish/C++/System_Moniter_cpp/build/CMakeFiles/monitor.dir/src/system.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

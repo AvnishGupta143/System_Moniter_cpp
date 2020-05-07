@@ -1,4 +1,4 @@
-# Install script for directory: /home/avn187/Desktop/Addverb_Avnish/C++/System_Monitor_Cpp
+# Install script for directory: /home/avn187/Desktop/Addverb_Avnish/C++/System_Moniter_cpp
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/avn187/Desktop/Addverb_Avnish/C++/System_Monitor_Cpp/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/avn187/Desktop/Addverb_Avnish/C++/System_Moniter_cpp/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

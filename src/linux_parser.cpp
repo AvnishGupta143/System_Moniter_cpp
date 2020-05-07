@@ -336,7 +336,8 @@ long LinuxParser::UpTime(int pid) {
     while(linestream >> temp){
       v.push_back(temp);
     }
-    uptime = stol(v[21])/sysconf(_SC_CLK_TCK);
+    long starttime = stol(v[21])/sysconf(_SC_CLK_TCK);
+    uptime = LinuxParser::UpTime() - starttime;
   }
   return uptime;
 }

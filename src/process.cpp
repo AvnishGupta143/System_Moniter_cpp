@@ -17,23 +17,10 @@ int Process::Pid() { return pid; }
 
 //Return this process's CPU utilization
 float Process::CpuUtilization() { 
-	long jiffies_start, jiffies_end;
-	long uptime_start, uptime_end, delta;
-
-	jiffies_start = LinuxParser::ActiveJiffies(pid);
-  	uptime_start = LinuxParser::UpTime(pid);
-  	
-  	// Wait 10ms
-	usleep(10000); // in microseconds
-
-	jiffies_end = LinuxParser::ActiveJiffies(pid);
-	uptime_end = LinuxParser::UpTime(pid);
-
-	delta = uptime_end - uptime_start;
-	if (delta == 0){
- 		return 0;
-	}
-	return (float)(jiffies_end - jiffies_start) / (float)(uptime_end - uptime_start);
+  long Hz = sysconf(_SC_CLK_TCK);
+  float total_time = LinuxParser::ActiveJiffies(pid)/ Hz; 
+  long seconds = LinuxParser::UpTime(pid);
+  return (float)total_time/seconds;
 }
 
 //Return the command that generated this process

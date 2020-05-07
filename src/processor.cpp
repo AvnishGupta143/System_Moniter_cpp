@@ -33,7 +33,7 @@ vector<float> Processor::Utilization_cores() {
 	vector<long> total = LinuxParser::Jiffies_cores(cpu_utilization);
 
 	vector<float> utilization;
-	for(int i{1}; i<prev_active.size(); i++){
+	for(unsigned int i{1}; i<prev_active.size(); i++){
 		long change_active = active[i] - prev_active[i];
 		long change_total = total[i] - prev_total[i];
 		float u = (float)change_active/(float)change_total;

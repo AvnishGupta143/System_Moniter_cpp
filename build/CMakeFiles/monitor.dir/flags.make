@@ -6,5 +6,5 @@ CXX_FLAGS =   -Wall -Wextra -std=gnu++14
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/avn187/Desktop/Addverb_Avnish/C++/System_Monitor_Cpp/include 
+CXX_INCLUDES = -I/home/avn187/Desktop/Addverb_Avnish/C++/System_Moniter_cpp/include 
 

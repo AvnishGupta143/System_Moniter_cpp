@@ -44,15 +44,15 @@ process.h
 processor.h
 ../include/processor.h
 
-/home/avn187/Desktop/Addverb_Avnish/C++/System_Monitor_Cpp/src/format.cpp
+/home/avn187/Desktop/Addverb_Avnish/C++/System_Moniter_cpp/src/format.cpp
 string
 -
 iostream
 -
 format.h
-/home/avn187/Desktop/Addverb_Avnish/C++/System_Monitor_Cpp/src/format.h
+/home/avn187/Desktop/Addverb_Avnish/C++/System_Moniter_cpp/src/format.h
 
-/home/avn187/Desktop/Addverb_Avnish/C++/System_Monitor_Cpp/src/linux_parser.cpp
+/home/avn187/Desktop/Addverb_Avnish/C++/System_Moniter_cpp/src/linux_parser.cpp
 dirent.h
 -
 unistd.h
@@ -64,15 +64,15 @@ vector
 iostream
 -
 linux_parser.h
-/home/avn187/Desktop/Addverb_Avnish/C++/System_Monitor_Cpp/src/linux_parser.h
+/home/avn187/Desktop/Addverb_Avnish/C++/System_Moniter_cpp/src/linux_parser.h
 
-/home/avn187/Desktop/Addverb_Avnish/C++/System_Monitor_Cpp/src/main.cpp
+/home/avn187/Desktop/Addverb_Avnish/C++/System_Moniter_cpp/src/main.cpp
 ncurses_display.h
-/home/avn187/Desktop/Addverb_Avnish/C++/System_Monitor_Cpp/src/ncurses_display.h
+/home/avn187/Desktop/Addverb_Avnish/C++/System_Moniter_cpp/src/ncurses_display.h
 system.h
-/home/avn187/Desktop/Addverb_Avnish/C++/System_Monitor_Cpp/src/system.h
+/home/avn187/Desktop/Addverb_Avnish/C++/System_Moniter_cpp/src/system.h
 
-/home/avn187/Desktop/Addverb_Avnish/C++/System_Monitor_Cpp/src/ncurses_display.cpp
+/home/avn187/Desktop/Addverb_Avnish/C++/System_Moniter_cpp/src/ncurses_display.cpp
 curses.h
 -
 chrono
@@ -86,13 +86,13 @@ vector
 iostream
 -
 format.h
-/home/avn187/Desktop/Addverb_Avnish/C++/System_Monitor_Cpp/src/format.h
+/home/avn187/Desktop/Addverb_Avnish/C++/System_Moniter_cpp/src/format.h
 ncurses_display.h
-/home/avn187/Desktop/Addverb_Avnish/C++/System_Monitor_Cpp/src/ncurses_display.h
+/home/avn187/Desktop/Addverb_Avnish/C++/System_Moniter_cpp/src/ncurses_display.h
 system.h
-/home/avn187/Desktop/Addverb_Avnish/C++/System_Monitor_Cpp/src/system.h
+/home/avn187/Desktop/Addverb_Avnish/C++/System_Moniter_cpp/src/system.h
 
-/home/avn187/Desktop/Addverb_Avnish/C++/System_Monitor_Cpp/src/process.cpp
+/home/avn187/Desktop/Addverb_Avnish/C++/System_Moniter_cpp/src/process.cpp
 unistd.h
 -
 cctype
@@ -106,21 +106,21 @@ vector
 iostream
 -
 linux_parser.h
-/home/avn187/Desktop/Addverb_Avnish/C++/System_Monitor_Cpp/src/linux_parser.h
+/home/avn187/Desktop/Addverb_Avnish/C++/System_Moniter_cpp/src/linux_parser.h
 process.h
-/home/avn187/Desktop/Addverb_Avnish/C++/System_Monitor_Cpp/src/process.h
+/home/avn187/Desktop/Addverb_Avnish/C++/System_Moniter_cpp/src/process.h
 unistd.h
 -
 
-/home/avn187/Desktop/Addverb_Avnish/C++/System_Monitor_Cpp/src/processor.cpp
+/home/avn187/Desktop/Addverb_Avnish/C++/System_Moniter_cpp/src/processor.cpp
 processor.h
-/home/avn187/Desktop/Addverb_Avnish/C++/System_Monitor_Cpp/src/processor.h
+/home/avn187/Desktop/Addverb_Avnish/C++/System_Moniter_cpp/src/processor.h
 unistd.h
 -
 iostream
 -
 linux_parser.h
-/home/avn187/Desktop/Addverb_Avnish/C++/System_Monitor_Cpp/src/linux_parser.h
+/home/avn187/Desktop/Addverb_Avnish/C++/System_Moniter_cpp/src/linux_parser.h
 vector
 -
 iostream
@@ -128,7 +128,7 @@ iostream
 string
 -
 
-/home/avn187/Desktop/Addverb_Avnish/C++/System_Monitor_Cpp/src/system.cpp
+/home/avn187/Desktop/Addverb_Avnish/C++/System_Moniter_cpp/src/system.cpp
 unistd.h
 -
 cstddef
@@ -140,11 +140,11 @@ string
 vector
 -
 process.h
-/home/avn187/Desktop/Addverb_Avnish/C++/System_Monitor_Cpp/src/process.h
+/home/avn187/Desktop/Addverb_Avnish/C++/System_Moniter_cpp/src/process.h
 processor.h
-/home/avn187/Desktop/Addverb_Avnish/C++/System_Monitor_Cpp/src/processor.h
+/home/avn187/Desktop/Addverb_Avnish/C++/System_Moniter_cpp/src/processor.h
 system.h
-/home/avn187/Desktop/Addverb_Avnish/C++/System_Monitor_Cpp/src/system.h
+/home/avn187/Desktop/Addverb_Avnish/C++/System_Moniter_cpp/src/system.h
 linux_parser.h
-/home/avn187/Desktop/Addverb_Avnish/C++/System_Monitor_Cpp/src/linux_parser.h
+/home/avn187/Desktop/Addverb_Avnish/C++/System_Moniter_cpp/src/linux_parser.h
 
