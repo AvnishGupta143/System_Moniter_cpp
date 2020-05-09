@@ -17,10 +17,11 @@ int Process::Pid() { return pid; }
 
 //Return this process's CPU utilization
 float Process::CpuUtilization() { 
-  long Hz = sysconf(_SC_CLK_TCK);
-  float total_time = LinuxParser::ActiveJiffies(pid)/ Hz; 
-  long seconds = LinuxParser::UpTime(pid);
-  return (float)total_time/seconds;
+  double total_time = LinuxParser::ActiveJiffies(pid);
+  //long uptime_system = UpTime();
+  long uptime_process = UpTime();
+  //double seconds = total_time - uptime;
+  return (total_time/sysconf(_SC_CLK_TCK))/uptime_process;
 }
 
 //Return the command that generated this process
